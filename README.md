@@ -1,2 +1,2 @@
 # denisbasmanow.github.io
-denisbasmanow.github.io
+Domain - supell.ml
