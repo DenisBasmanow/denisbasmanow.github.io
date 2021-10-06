@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    background-color: #00232B;
+}
+
+
+
+.avatarcon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 240px;
+}
+.avatar {
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    border: 3px solid #FF9900;
+    
+}
